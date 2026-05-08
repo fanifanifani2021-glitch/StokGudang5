@@ -368,7 +368,7 @@
             </div>
 
             <h1 class="hero-title">
-                Apk UNGS<br>
+                Aplikasi UNGS<br>
                 <span class="accent">(Unit Niaga Gudang Strategis)</span>
             </h1>
 
